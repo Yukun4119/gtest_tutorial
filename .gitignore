@@ -32,4 +32,5 @@
 *.app
 
 # local
-.idea
+#.idea
+.vscode
